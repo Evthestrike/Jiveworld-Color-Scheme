@@ -1,0 +1,8 @@
+2f5f67 -- blue
+493e17 -- yellow
+999999 -- background light grey
+292929 -- foreground dark grey
+383838 -- background grey
+4c4c4c -- foreground grey *
+292929 -- background dark grey *
+343434 -- darker foreground grey
