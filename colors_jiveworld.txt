@@ -1,6 +1,5 @@
 2f5f67 -- blue
-A78B4A -- yellow
-A74F4A -- red
+a78b4a -- yellow
 999999 -- background light grey
 1f2430 -- foreground dark grey
 383838 -- background grey
